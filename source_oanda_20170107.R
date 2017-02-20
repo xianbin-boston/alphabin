@@ -36,13 +36,13 @@ usePackage(pkglist)
 #########################################
 host <- "https://api-fxtrade.oanda.com"
 urlbase0 <- "https://api-fxtrade.oanda.com/v1"
-token <- "Bearer cbd3e96195489db5e1f74023919dbc86-ebdc959a28263cc98fb62faccaf936a5"
-id <- 619441
+token <- "xxx"
+id <- xxx
 
 # Practice Account Setting
 # urlbase0 <- "https://api-fxpractice.oanda.com/v3"
-# token <- "Bearer cad816a9395a3fb94a0af9cf7fad5978-7a6d24b894562d6c0b0287a17dcec7d8"
-# id <- "101-001-4282917-001"
+# token <- "xxx"
+# id <- "xxx"
 
 
 ########################################################################################
