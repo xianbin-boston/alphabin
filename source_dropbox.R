@@ -2,7 +2,7 @@
 require(httr,quiet=T)
 require(jsonlite, quiet=T)
 
-token_db <- "WTNF3uTknUEAAAAAAAADey1096aewefoETLhhTfQdZjbZ4U2MluyIv4IpcBsvJmX"
+token_db <- "xxx"
 
 dropbox_mkdir <- function(path) {
   x<-POST("https://api.dropboxapi.com/2/files/create_folder",
